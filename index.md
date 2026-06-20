@@ -1,4 +1,8 @@
-
+Markdown
+---
+theme: jekyll-theme-cayman
+title: WTI Nyersolaj Határidős Árelemzés
+---
 Mini kutatás: WTI nyersolaj határidős árak
 
 Ez a notebook a mappában található Crude Oil WTI Futures Historical Data.csv fájlt dolgozza fel. A cél hat érthető vizualizáció készítése, majd mindegyik alatt rövid, magyar nyelvű elemzés és következtetés.
