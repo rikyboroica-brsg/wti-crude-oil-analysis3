@@ -1,4 +1,3 @@
-Markdown
 ---
 theme: jekyll-theme-cayman
 title: WTI Nyersolaj Határidős Árelemzés
